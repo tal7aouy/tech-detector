@@ -1,0 +1,200 @@
+{
+    "WordPress": [
+        "wordpress"
+    ],
+    "Joomla": [
+        "joomla"
+    ],
+    "Drupal": [
+        "drupal"
+    ],
+    "Bootstrap": [
+        "bootstrap"
+    ],
+    "jQuery": [
+        "jquery"
+    ],
+    "React": [
+        "react",
+        "reactjs"
+    ],
+    "Vue.js": [
+        "vue",
+        "vuejs"
+    ],
+    "Angular": [
+        "angular"
+    ],
+    "Laravel": [
+        "laravel"
+    ],
+    "CodeIgniter": [
+        "codeigniter"
+    ],
+    "Ruby on Rails": [
+        "ruby on rails",
+        "rubyonrails"
+    ],
+    "Django": [
+        "django"
+    ],
+    "ASP.NET": [
+        "asp.net"
+    ],
+    "Node.js": [
+        "node.js"
+    ],
+    "Express.js": [
+        "express"
+    ],
+    "Symfony": [
+        "symfony"
+    ],
+    "Flask": [
+        "flask"
+    ],
+    "Yii": [
+        "yii"
+    ],
+    "CakePHP": [
+        "cakephp"
+    ],
+    "Zend Framework": [
+        "zend"
+    ],
+    "Gatsby": [
+        "gatsby"
+    ],
+    "Next.js": [
+        "nextjs"
+    ],
+    "Nuxt.js": [
+        "nuxt"
+    ],
+    "Svelte": [
+        "svelte"
+    ],
+    "Meteor": [
+        "meteor"
+    ],
+    "Sails.js": [
+        "sails"
+    ],
+    "GraphQL": [
+        "graphql"
+    ],
+    "REST API": [
+        "rest"
+    ],
+    "Apache": [
+        "apache"
+    ],
+    "Nginx": [
+        "nginx"
+    ],
+    "IIS": [
+        "iis"
+    ],
+    "Heroku": [
+        "heroku"
+    ],
+    "AWS": [
+        "aws"
+    ],
+    "Google Cloud": [
+        "google cloud"
+    ],
+    "Azure": [
+        "azure"
+    ],
+    "DigitalOcean": [
+        "digitalocean"
+    ],
+    "Vercel": [
+        "vercel"
+    ],
+    "Netlify": [
+        "netlify"
+    ],
+    "Docker": [
+        "docker"
+    ],
+    "Kubernetes": [
+        "kubernetes"
+    ],
+    "Jenkins": [
+        "jenkins"
+    ],
+    "GitHub Actions": [
+        "github actions"
+    ],
+    "Travis CI": [
+        "travis"
+    ],
+    "CircleCI": [
+        "circleci"
+    ],
+    "Webpack": [
+        "webpack"
+    ],
+    "Parcel": [
+        "parcel"
+    ],
+    "Rollup": [
+        "rollup"
+    ],
+    "Babel": [
+        "babel"
+    ],
+    "Sass": [
+        "sass"
+    ],
+    "Less": [
+        "less"
+    ],
+    "Tailwind CSS": [
+        "tailwind"
+    ],
+    "Foundation": [
+        "foundation"
+    ],
+    "Materialize": [
+        "materialize"
+    ],
+    "Bulma": [
+        "bulma"
+    ],
+    "Alpine.js": [
+        "alpine"
+    ],
+    "Three.js": [
+        "three"
+    ],
+    "PixiJS": [
+        "pixijs"
+    ],
+    "Chart.js": [
+        "chartjs"
+    ],
+    "D3.js": [
+        "d3"
+    ],
+    "WebAssembly": [
+        "wasm"
+    ],
+    "Electron": [
+        "electron"
+    ],
+    "React Native": [
+        "react native"
+    ],
+    "Flutter": [
+        "flutter"
+    ],
+    "Cordova": [
+        "cordova"
+    ],
+    "Ionic": [
+        "ionic"
+    ]
+}

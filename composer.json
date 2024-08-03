@@ -1,0 +1,29 @@
+{
+    "name": "mac/tech-detector",
+    "description": "Detect techs",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tal7aouy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tal7aouy",
+            "email": "tal7aouy.dev@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "rector/rector": "^1.2",
+        "pestphp/pest": "^1.23"
+    },
+    "scripts": {
+        "rector": "vendor/bin/rector process src --dry-run",
+        "test": "vendor/bin/pest"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
